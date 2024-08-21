@@ -1,10 +1,10 @@
 # 👋 Welcome to bytebuilderco's GitHub Profile!
 
-Hello! I'm **bytebuilderco**, a passionate developer with a focus on building robust applications and contributing to the open-source community.
+Hello! We are **bytebuilderco**, a team of passionate developers with a focus on building robust applications and also contributing to the open-source community.
 
 ## 👀 Interests
 
-I'm deeply interested in:
+We are deeply interested in:
 
 - **Frontend Development**: React, JavaScript, and modern web technologies.
 - **Backend Development**: PHP, Laravel, and various PHP frameworks.
