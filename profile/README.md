@@ -12,14 +12,14 @@ I'm deeply interested in:
 
 ## 🌱 Currently Learning
 
-I'm currently diving deeper into:
+We are currently diving deeper into:
 
 - **Advanced React Patterns**: To enhance my UI/UX skills and create more dynamic applications.
 - **Full-Stack Development**: To better integrate frontend and backend solutions.
 
 ## 💞️ Looking to Collaborate On
 
-I’m excited to collaborate on:
+We are excited to collaborate on:
 
 - **Innovative Web Applications**: Projects that push the boundaries of what web technologies can do.
 - **Open Source Contributions**: Especially those related to React, PHP, and JavaScript frameworks.
@@ -28,7 +28,7 @@ I’m excited to collaborate on:
 
 You can connect with me via:
 
-- **Email**: [bytebuildersco@gmail.com](mailto:bytebuildersco@gmail.com)
+- **Email**: [tech@bytebuilders.co.in](mailto:tech@bytebuilders.co.in)
 - **LinkedIn**: [Byte Builders Co.]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/company/byte-builders-co))
 
 ## 😄 Pronouns
